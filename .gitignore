@@ -1,0 +1,5 @@
+# Local output of docs/operator-quickstart.md step 1 (`npm install` in kotoba/).
+# No lockfile has ever been committed here; the SDK dependencies are pinned by
+# exact commit SHA in kotoba/package.json instead.
+node_modules/
+package-lock.json
